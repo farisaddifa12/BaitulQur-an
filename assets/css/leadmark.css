@@ -8782,6 +8782,10 @@ button.bg-dark:focus {
   width: 100% !important;
 }
 
+.w-101 {
+  width: 30% !important;
+}
+
 .w-auto {
   width: auto !important;
 }
@@ -11052,7 +11056,7 @@ hr {
 }
 
 .breadcrumb .breadcrumb-item a {
-  color: #1b1b1b;
+  color: white;
 }
 
 .breadcrumb .breadcrumb-item.active {
@@ -11515,7 +11519,7 @@ textarea.form-control {
   font-size: 2.4rem;
   font-weight: bold;
   opacity: .8;
-  color: #444;
+  color: white;
 }
 
 .header-mini {
@@ -11540,7 +11544,7 @@ textarea.form-control {
           justify-content: center;
   text-align: center;
   padding: 1rem;
-  background: #ffbca8;
+  background: url(../imgs/fotbar-2.jpg) no-repeat center top fixed;();
 }
 
 .section {
